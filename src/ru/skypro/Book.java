@@ -1,9 +1,9 @@
 package ru.skypro;
 
 public class Book {
-    String name;
-    Author authorName;
-    int yearOfPublication;
+    private String name;
+    private Author authorName;
+    private int yearOfPublication;
 
     public Book(String name, Author authorName, int yearOfPublication) {
         this.name = name;
