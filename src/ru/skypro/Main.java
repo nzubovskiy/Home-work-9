@@ -12,7 +12,7 @@ public class Main {
 
         book0.setYearOfPublication(2016);
 
-        System.out.println(book0.getName()+" "+book0.getAuthorName().getAuthorName()+ " " +book0.getAuthorName().getAuthorSurname()+ " " +book0.getYearOfPublication());
-        System.out.println(book1.getName()+" "+book1.getAuthorName().getAuthorName()+ " " +book1.getAuthorName().getAuthorSurname()+ " " +book1.getYearOfPublication());
+        System.out.println(book0);
+        System.out.println(book1);
     }
 }
